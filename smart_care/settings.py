@@ -29,6 +29,7 @@ SECRET_KEY = 'django-insecure-4(g6xp(w7lc(sl_!_9$f3a2vzs7#0e8c_aetbm++#zyd2=o0b5
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
+CSRF_TRUSTED_ORIGINS = ['https://two9-30-31-smart-care-django-phitron.onrender.com', 'https://*.127.0.0.1']
 
 
 # Application definition
