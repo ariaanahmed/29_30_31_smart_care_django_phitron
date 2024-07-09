@@ -1,0 +1,15 @@
+asgiref
+crispy-bootstrap5
+crispy-tailwind
+Django
+django-crispy-forms
+django-email
+django-environ
+django-filter
+djangorestframework
+humanize
+Markdown
+pillow
+psycopg2
+sqlparse
+tzdata
